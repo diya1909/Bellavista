@@ -366,6 +366,7 @@ menuitem:nth-child(3){animation-delay: 0.3s;}
     padding: 3rem 0 1rem;
     margin-top: 5rem;
     width: 100%;
+    padding-right: 5rem;
 }
 .footer-content{
     display: grid;
@@ -424,4 +425,5 @@ color: var(--primary-color);
 }
 .social-link.facebook { background-color: #3b5998; }
 .social-link.instagram { background-color: #E1306C; }
+
 .social-link.twitter { background-color: #1DA1F2; }
